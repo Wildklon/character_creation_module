@@ -1,3 +1,7 @@
+print('Privet')
+
+
+
 def sec():
     a = int(input('Vvedite chslo: '))
     if a<=10:
