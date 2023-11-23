@@ -1,1 +1,5 @@
-print("privet")
+def sec():
+    print("privet")
+
+
+sec()
